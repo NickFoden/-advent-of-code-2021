@@ -1,4 +1,6 @@
 node_modules
 /junk
 .DS_Store
-/Day1
+/Day1/index.js
+/Day1/input.txt
+/Day1/day1solve.spec.js
