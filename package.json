@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "description": "Advent of Code 2021 in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch ./*"
+  },
+  "author": "Nick Foden",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.2"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "volta": {
+    "node": "16.13.0"
+  }
+}
