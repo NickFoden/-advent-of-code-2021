@@ -4,3 +4,4 @@ node_modules
 /Day1/index.js
 /Day1/input.txt
 /Day1/day1solve.spec.js
+/Day2/day2.spec.js
